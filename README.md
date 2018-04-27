@@ -8,6 +8,6 @@ Blockchain and Smart Contracts presentation: https://docs.google.com/presentatio
 UI task and specifications: 
 https://docs.google.com/presentation/d/1Z6tDojerCCopqlVjlulIhp6xlrjgIduQXil7BRSs9DY/edit?usp=sharing
 
-Connecting to contracts with JS
+Connecting to contracts with JS:
 https://docs.google.com/presentation/d/1fDKoqeOwcIoGug5NHj5Lwam_42PBFN6ugsvg37Ones8/edit?usp=sharing
 
